@@ -1,0 +1,9 @@
+C:\kch\uni\teaching\app_mod\codebase\BasicServer\bin\Debug\BasicServer.exe
+C:\kch\uni\teaching\app_mod\codebase\BasicServer\bin\Debug\BasicServer.pdb
+C:\kch\uni\teaching\app_mod\codebase\BasicServer\obj\x86\Debug\BasicServer.exe
+C:\kch\uni\teaching\app_mod\codebase\BasicServer\obj\x86\Debug\BasicServer.pdb
+E:\kch\eirlss\server\BasicServer\obj\x86\Debug\BasicServer.exe
+E:\kch\eirlss\server\BasicServer\obj\x86\Debug\BasicServer.pdb
+E:\kch\eirlss\server\BasicServer\bin\Debug\BasicServer.exe
+E:\kch\eirlss\server\BasicServer\bin\Debug\BasicServer.pdb
+E:\kch\eirlss\server\BasicServer\obj\x86\Debug\BasicServer.csprojResolveAssemblyReference.cache

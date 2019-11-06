@@ -1,0 +1,15 @@
+C:\kch\uni\teaching\app_mod\codebase\SimpleClient\obj\x86\Debug\SimpleClient.ClientView.resources
+C:\kch\uni\teaching\app_mod\codebase\SimpleClient\obj\x86\Debug\SimpleClient.Properties.Resources.resources
+C:\kch\uni\teaching\app_mod\codebase\SimpleClient\obj\x86\Debug\SimpleClient.csproj.GenerateResource.Cache
+C:\kch\uni\teaching\app_mod\codebase\SimpleClient\bin\Debug\SimpleClient.exe
+C:\kch\uni\teaching\app_mod\codebase\SimpleClient\bin\Debug\SimpleClient.pdb
+C:\kch\uni\teaching\app_mod\codebase\SimpleClient\obj\x86\Debug\SimpleClient.exe
+C:\kch\uni\teaching\app_mod\codebase\SimpleClient\obj\x86\Debug\SimpleClient.pdb
+E:\kch\eirlss\client\SimpleClient\obj\x86\Debug\SimpleClient.exe
+E:\kch\eirlss\client\SimpleClient\obj\x86\Debug\SimpleClient.pdb
+E:\kch\eirlss\client\SimpleClient\bin\Debug\SimpleClient.exe
+E:\kch\eirlss\client\SimpleClient\bin\Debug\SimpleClient.pdb
+E:\kch\eirlss\client\SimpleClient\obj\x86\Debug\SimpleClient.csprojResolveAssemblyReference.cache
+E:\kch\eirlss\client\SimpleClient\obj\x86\Debug\SimpleClient.ClientView.resources
+E:\kch\eirlss\client\SimpleClient\obj\x86\Debug\SimpleClient.Properties.Resources.resources
+E:\kch\eirlss\client\SimpleClient\obj\x86\Debug\SimpleClient.csproj.GenerateResource.Cache
